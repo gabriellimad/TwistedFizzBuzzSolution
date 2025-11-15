@@ -1,0 +1,51 @@
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.vs/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Web stuff
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Others
+*.swp
+*.bak
+*.tmp
